@@ -1,5 +1,6 @@
 const heroSlider = new Swiper('.swiper.heroslider', {
   // Optional parameters
+  loop: true,
   slidesPerView: 1,
   centeredSlides: true,
   autoplay: {
