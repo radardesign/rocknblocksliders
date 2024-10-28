@@ -1,7 +1,7 @@
 const heroSlider = new Swiper('.swiper.heroslider', {
   // Optional parameters
-  slidesPerView: auto,
-  effect: fade,
+  slidesPerView: 1,
+  effect: "fade",
   loop: true,
 
   // Navigation arrows
