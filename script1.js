@@ -1,4 +1,4 @@
-const swiper = new Swiper('.swiper.heroslider', {
+const heroSlider = new Swiper('.swiper.heroslider', {
   // Optional parameters
   loop: true,
 
