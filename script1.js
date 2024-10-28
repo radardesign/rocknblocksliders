@@ -1,6 +1,8 @@
 const heroSlider = new Swiper('.swiper.heroslider', {
   // Optional parameters
-  centeredSlides: true,
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true,
 
   // Navigation arrows
   navigation: {
