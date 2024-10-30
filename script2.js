@@ -1,11 +1,14 @@
 const blockproj = new Swiper('.swiper.blocproj', {
   // Optional parameters
   slidesPerView: 4,
+  grid: {
+        rows: 2,
+  },
   effect: "fade",
   fadeEffect: {
       crossFade: true
   },
-  loop: false,
+  loop: true,
 
   // Navigation arrows
   navigation: {
