@@ -9,7 +9,7 @@ const blockproj = new Swiper('.swiper.blocproj', {
   fadeEffect: {
       crossFade: true
   },
-  loop: true,
+  loop: false,
 
   // Navigation arrows
   navigation: {
