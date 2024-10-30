@@ -28,6 +28,6 @@ const blockproj = new Swiper('.swiper.blocproj', {
       grid: {
         rows: 1,
       },
-    }
+    },
   },
 });
