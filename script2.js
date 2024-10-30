@@ -3,7 +3,7 @@ const blockproj = new Swiper('.swiper.blocproj', {
   slidesPerView: 2,
   grid: {
     rows: 2,
-    fill: "row"
+    fill: "row",
   },
   spaceBetween: 8,
   loop: true,
