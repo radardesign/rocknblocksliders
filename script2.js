@@ -1,7 +1,7 @@
 const blockproj = new Swiper('.swiper.blocproj', {
   // Optional parameters
   slidesPerView: 2,
-  grid{
+  grid: {
     rows: 2,
   },
   spaceBetween: 8,
