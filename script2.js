@@ -5,7 +5,6 @@ const blockproj = new Swiper('.swiper.blocproj', {
     rows: 2,
   },
   spaceBetween: 8,
-  loop: true,
   // Navigation arrows
   navigation: {
     nextEl: '.swiper-btn-next1',
