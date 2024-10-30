@@ -1,6 +1,7 @@
 const blockproj = new Swiper('.swiper.blocproj', {
   // Optional parameters
   slidesPerView: 2,
+  slidesPerGroup: 2,
   grid: {
     rows: 2,
   },
