@@ -1,6 +1,6 @@
 const blockproj = new Swiper('.swiper.blocproj', {
   // Optional parameters
-  slidesPerView: 1,
+  slidesPerView: 4,
   effect: "fade",
   fadeEffect: {
       crossFade: true
@@ -9,7 +9,7 @@ const blockproj = new Swiper('.swiper.blocproj', {
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-btn-next',
-    prevEl: '.swiper-btn-prev',
+    nextEl: '.swiper-btn-next1',
+    prevEl: '.swiper-btn-prev1',
   },
 });
