@@ -7,6 +7,10 @@ const blockproj = new Swiper('.swiper.blocproj', {
   },
   spaceBetween: 8,
   loop: true,
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
   // Navigation arrows
   navigation: {
     nextEl: '.swiper-btn-next1',
