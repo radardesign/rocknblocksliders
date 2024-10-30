@@ -4,12 +4,6 @@ const blockproj = new Swiper('.swiper.blocproj', {
   grid: {
     rows: 2,
   },
-  spaceBetween: 8,
-  effect: "fade",
-  fadeEffect: {
-      crossFade: true
-  },
-  loop: false,
 
   // Navigation arrows
   navigation: {
