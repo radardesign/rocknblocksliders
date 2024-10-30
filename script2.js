@@ -4,6 +4,7 @@ const blockproj = new Swiper('.swiper.blocproj', {
   slidesPerGroup: 2,
   grid: {
     rows: 2,
+    fill: "row"
   },
   spaceBetween: 8,
   loop: true,
