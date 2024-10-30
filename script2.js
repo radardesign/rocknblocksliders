@@ -2,6 +2,7 @@ const blockproj = new Swiper('.swiper.blocproj', {
   // Optional parameters
   slidesPerView: 2,
   slidesPerGroup: 2,
+  spaceBetween: 8,
   loop: true,
   // Navigation arrows
   navigation: {
