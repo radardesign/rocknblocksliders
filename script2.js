@@ -24,7 +24,7 @@ const blockproj = new Swiper('.swiper.blocproj', {
   },
   breakpoints: {
     810: {
-      slidesPerView: 2
+      slidesPerView: 2,
       grid: {
         rows: 1,
       },
