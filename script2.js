@@ -6,7 +6,6 @@ const blockproj = new Swiper('.swiper.blocproj', {
     fill: "row",
   },
   spaceBetween: 8,
-  loop: true,
   pagination: {
     el: ".swiper-pagination",
     type: 'bullets',
