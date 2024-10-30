@@ -9,9 +9,11 @@ const blockproj = new Swiper('.swiper.blocproj', {
   loop: true,
   pagination: {
     el: ".swiper-pagination",
+    type: 'bullets',
     clickable: true,
     bulletClass: 'swiper-bullet',
     bulletActiveClass: 'is-active',
+    bulletElement: 'button',
     renderBullet: function (index, className) {
       return '<span class="' + className + '">' + (index + 1) + "</span>";
     },
