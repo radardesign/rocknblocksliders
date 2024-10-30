@@ -22,4 +22,12 @@ const blockproj = new Swiper('.swiper.blocproj', {
     nextEl: '.swiper-btn-next1',
     prevEl: '.swiper-btn-prev1',
   },
+  breakpoints: {
+    810: {
+      slidesPerView: 2
+      grid: {
+        rows: 1,
+      },
+    }
+  },
 });
