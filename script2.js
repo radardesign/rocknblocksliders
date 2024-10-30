@@ -11,6 +11,7 @@ const blockproj = new Swiper('.swiper.blocproj', {
       crossFade: true
   },
   loop: true,
+  loopAddBlankSlides: true,
   // Navigation arrows
   navigation: {
     nextEl: '.swiper-btn-next1',
