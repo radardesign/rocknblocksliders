@@ -7,11 +7,7 @@ const blockproj = new Swiper('.swiper.blocproj', {
   },
   spaceBetween: 8,
   effect: "fade",
-  fadeEffect: {
-      crossFade: true
-  },
   loop: true,
-  loopAddBlankSlides: true,
   // Navigation arrows
   navigation: {
     nextEl: '.swiper-btn-next1',
